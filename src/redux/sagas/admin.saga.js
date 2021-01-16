@@ -58,7 +58,7 @@ function* getNewUserDetail(action) {
     const response = yield axios.get(
       `/api/user/newUserDetail/${action.payload}`
     );
-    console.log('look here <<<<<<', response.data);
+
     yield put({
       type: 'SET_NEW_USER_DETAIL',
       payload: response.data,
@@ -74,7 +74,7 @@ function* verifiedUserDetailReducer(action) {
     const response = yield axios.get(
       `/api/user/verifiedUserDetail/${action.payload}`
     );
-    console.log('look here <<<<<<', response.data);
+
     yield put({
       type: 'SET_VERIFIED_USER_DETAIL',
       payload: response.data,
