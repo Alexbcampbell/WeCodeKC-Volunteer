@@ -29,7 +29,8 @@ Admin Page - Calendar
 Admin Page - Demographics
 ![Screen Shot 2021-01-21 at 3 56 56 PM](https://user-images.githubusercontent.com/69406113/105417812-c1bc5500-5c01-11eb-9c45-1ef5b3057d02.png)
 
-Mobile Profile Pages:
+Mobile Profile Pages
+
 ![Screen Shot 2021-01-21 at 3 52 40 PM](https://user-images.githubusercontent.com/69406113/105417911-eadce580-5c01-11eb-9117-90b790d200d4.png)
 ![Screen Shot 2021-01-21 at 3 52 51 PM](https://user-images.githubusercontent.com/69406113/105417938-f6301100-5c01-11eb-98b9-99bfaa711dc3.png)
 
@@ -38,7 +39,7 @@ Mobile Profile Pages:
 Link to software that is required to install the app (e.g. node).
 
 - [Node.js](https://nodejs.org/en/)
-- List other prerequisites here
+- [docker](https://www.docker.com/)
 
 ## Installation
 
@@ -70,30 +71,17 @@ This version of the project uses Docker to run the development environment. You 
 
 Steps:
 
-Note: For testing purposes, test accounts and data are currently initialized with the project upon build. These lines can be removed and are not entirely necessary, but may prove helpful as a tool to show off the application
+The Homepage contains a brief summary of WeCodeKC, a carousel of upcoming events, and the options to register as a volunteer or mentor. You can also access all events by clicking on the hamburger dropdown in the top right corner and going to Events.
 
-1. Register and/or login to the application. If you’re creating a new account, you’re directed to the ‘Step 1 - About Me’ tab. Complete the forms on tabs 1-3 by providing the necessary information, and click ‘Submit.’
+1. Register and/or login to the application. If you’re creating a new account, you’re directed to the registration page. Complete the two-part registration by providing the necessary information, and click ‘Submit.’
 
-2. After logging into your account, you see the Landing Page. Note, you can also reach this page by selecting ‘Home’ in the top nav bar.
+2. After logging into your account as a volunteer or mentor, you see your Profile Page. Note, you can also reach this page by selecting ‘Home’ in the top nav bar. If you are an admin, you will have the option of accessing the admin portal by choosing the Admin button on the hamburger dropdown.
 
-The Landing Page contains a brief summary of your own information and an option to ‘View Profile.’ You can also view and edit your profile information by selecting ‘Profile’ in the top nav bar.
+3. To view all events at which to volunteer, select the ‘Events’ button. Clicking on the details button will take you to a page with more information. By choosing 'Click to Attend', you will see an alert that the event has been be added to your events.
 
-Additionally, the page contains one large button at the very top labeled ‘IHKC Community,’ and below, you see three smaller buttons labeled as follows: “‘Find a Business,’ ‘Find a Speaker,’ ‘Find a Space.’”
+4. Back on the profile page, you can update your profile picture and personal details by clicking on 'Edit Profile.'
 
-3. To search through the community of members, select the ‘IHKC Community’ button. After navigating to the Search Page, you can find members by inputting a job title, community role, or an organization name. When the search results appear, clicking the down carrot shows more information about a user and let’s you contact them from within the app.
-
-4. Selecting one of the three smaller buttons from the Landing Page, you can view a list of local businesses, speakers, and/or spaces to hold events. Selecting the ‘+’ button expands a card, and you can view additional information including contact info for the individual or entity. Note: these are resources, not necessarily members, so the option to contact them from within in the app is not available.
-
-## Usage
-
-How does someone use this application? Tell a user story here.
-
-1. xxx
-2. xxx
-3. xxx
-4. xxx
-5. xxx
-6. xxx
+5. As an administrator, you can access a table of all verified users on the admin portal. You can also create and manage events on the Event Calendar tab. Administrators also can view demographics on the Demographics tab and sort through ethnicity, gender identity, and volunteer role.
 
 ## Built With
 
