@@ -115,4 +115,4 @@ Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped m
 
 ## Support
 
-If you have suggestions or issues, please email us at [Alex Campbell](alexbe.campbell@gmail.com), [Clint Hipple](clintondhipple@gmail.com), [Chris Johnson](johnny.c.alexander@gmail.com), or [Sarah Peters](sarahnpeters@gmail.com).
+If you have suggestions or issues, please email us: [Alex Campbell](alexbe.campbell@gmail.com), [Clint Hipple](clintondhipple@gmail.com), [Chris Johnson](johnny.c.alexander@gmail.com), or [Sarah Peters](sarahnpeters@gmail.com).
