@@ -10,7 +10,7 @@ This application streamlines the registration process for mentors and volunteers
 
 WeCodeKC will have access to demographics provided by the volunteers/mentors for research purposes and the ability to create events so that volunteers/mentors can easily sign up for them.
 
-To see the fully functional site, please visit: [DEPLOYED VERSION OF APP](www.heroku.com)
+To see the fully functional site, please visit: [DEPLOYED VERSION OF APP](https://wevolunteerkc.herokuapp.com/#/home)
 
 ## Screen Shot
 
