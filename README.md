@@ -14,6 +14,11 @@ To see the fully functional site, please visit: [DEPLOYED VERSION OF APP](www.he
 
 ## Screen Shot
 
+Home Page:
+![Screen Shot 2021-01-22 at 2 23 15 PM](https://user-images.githubusercontent.com/66644958/105541446-6485d980-5cbd-11eb-8cdf-7cefc44ea0d5.png)
+
+![Screen Shot 2021-01-22 at 2 24 41 PM](https://user-images.githubusercontent.com/66644958/105541582-9ac35900-5cbd-11eb-8ff5-3a5691d547e0.png)
+
 Events Page:
 ![Screen Shot 2021-01-21 at 3 46 26 PM](https://user-images.githubusercontent.com/69406113/105417679-933e7a00-5c01-11eb-9ee9-a4473ce5f383.png)
 
